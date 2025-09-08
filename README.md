@@ -58,5 +58,5 @@
 
 <h3 align="left">Featured Repo:</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=barnalibhowmik&repo=README.md&theme=swift" alt="Featured Repo" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=barnalibhowmik&repo=BarnaliBhowmik&theme=swift" alt="Featured Repo" />
 </p>
