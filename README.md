@@ -9,7 +9,7 @@
 <table width="100%" align="center">
 <tr>
 <td align="center">
-<a href="https://github.com/user-attachments/assets/da50e18f-b383-4e87-8813-2874b487da4c">
+<a href="https://barnalibk-portfolio.vercel.app/">
 <img width="200" height="300" alt="Rango interviews" src="https://github.com/user-attachments/assets/ba086ed3-192d-4276-81a4-a75ea8cde439" />
 
 </a>
