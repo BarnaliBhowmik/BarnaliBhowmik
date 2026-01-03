@@ -1,6 +1,6 @@
 <!-- "Hero" Header -->
 <h1 align="center">Hi, I'm Barnali 😊</h1>
-<h3 align="center">AI & ML Undergrad | Exploring Quantum Cognition & Advanced ML</h3>
+<h3 align="center">AI & ML Undergrad
   <br />
   <br />
 </div>
