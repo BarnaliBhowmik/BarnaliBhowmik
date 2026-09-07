@@ -29,7 +29,7 @@ Medical AI • Computer Vision • Robotics • Computational Neuroscience • M
 - **Technical Project Coordinator Intern** @**MicroSysLogic Technologies** *(Sep 2025 – Dec 2025)*
 - **Artificial Intelligence Technologies Summer School 2026** @**Ivan Franko National University of Lviv** *(Jun 2026 – Jul 2026)*
 - **ML Summer School 2026** @**Cohere** *(Jul 2026 – Aug 2026)*
-- **ML & Gen AI Intern** @**FlyRank** *(Jun 2026 – Aug 2026)*
+- **ML & Gen AI Intern** @**FlyRank** *(Jun 2026 – Sep 2026)*
 
 ### 🛠️ Tech Stack
 
