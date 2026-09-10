@@ -50,7 +50,7 @@ Medical AI • Computer Vision • Robotics • Computational Neuroscience • M
 
 | Project | Description | Repository |
 |:--------|:------------|:-----------|
-| 🧍 **POSTURE** | AI-powered Human Posture Analysis & Correction System | [Link🔗](https://github.com/BarnaliBhowmik/POSTURE) |
+| 🧍 **POSTURE** | AI-powered Human Posture Analysis & Correction System | [Link🔗](https://github.com/BarnaliBhowmik/ML-Projects/tree/main/POSTURE) |
 | 🧠 **Brain Tumor MRI** | Deep Learning-based Brain Tumor Detection & Classification from MRI Scans | [Link🔗](https://github.com/BarnaliBhowmik/Brain_Tumor_MRI) |
 | 🩺 **U-Net Carotid Artery Segmentation** | Medical Image Segmentation using U-Net Architecture | [Link🔗](https://github.com/BarnaliBhowmik/U-Net-Carotid-Artery-Segmentation) |
 
