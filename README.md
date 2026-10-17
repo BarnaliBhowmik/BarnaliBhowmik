@@ -44,17 +44,8 @@
 ## 💼 Experience
 
 - **ML & GenAI Intern — FlyRank** *(Jul 2026 – Oct 2026)*
-  - Worked on a capstone project focused on Google Search Ranking and Discoverability.
-  - Gained practical exposure to data-driven analysis and machine learning workflows.
-  - Ranked #106 among 2,450+ interns, according to the program ranking.
-
 - **Technical Project Lead Intern — MicroSysLogic Technologies** *(Sep 2025 – Dec 2025)*
-  - Coordinated project activities and communication across technical teams.
-  - Supported deployment, debugging, and issue resolution.
-  - Assisted with AI-team coordination and project progress tracking.
-
 - **Open Source Developer — GDGC-VJIT** *(2024 – 2026)*
-  - Participated in collaborative development and technical project activities.
 
 ## 🎓 Research & Technical Programs
 
