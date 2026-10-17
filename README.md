@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/barnalibhowmik8/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png" alt="LinkedIn"/></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/barnalibhowmik15/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png" alt="LinkedIn"/></a>&nbsp;&nbsp;
   <a href="https://medium.com/@NeuroB_21"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/medium.svg" alt="Medium"/></a>&nbsp;&nbsp;
   <a href="mailto:bbhowmik179@gmail.com"><img height="30" src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;&nbsp;
 </div>
